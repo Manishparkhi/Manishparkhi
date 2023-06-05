@@ -1,9 +1,9 @@
 <h1 align="center">Hi There 👋, Manish Parkhi</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-parkhi-manu&label=Profile%20views&color=0e75b6&style=flat" alt="manish-parkhi-manu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-parkhi&label=Profile%20views&color=0e75b6&style=flat" alt="manish-parkhi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-parkhi-manu" alt="manish-parkhi-manu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-parkhi" alt="manish-parkhi" /></a> </p>
 
 - 🌱 I’m currently learning **Springboot , java**
 
