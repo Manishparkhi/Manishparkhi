@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishparkhi&label=Profile%20views&color=0e75b6&style=flat" alt="manishparkhi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishparkhi" alt="manishparkhi" /></a> </p>
-
 - 🌱 I’m currently learning **Springboot , java**
 
 - 💬 Ask me about **java + DSA , MYSQL**
